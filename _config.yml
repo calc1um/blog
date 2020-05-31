@@ -73,14 +73,14 @@ footer-text: Copyright (c) 2020 来自第三世界
 #
 
 # 输入Disqus shortname，即可添加评论区
-disqus: loffer #shortname
+disqus:  #shortname
 
 # 输入Gitalk相关设定，即可添加评论区，具体请看教程
 gitalk:
-  clientID: 
-  clientSecret: 
-  repo: 
-  owner: 
+  clientID: 72619b42459e999f4e14
+  clientSecret: aea4f40688c198f7ebb9c0f7ecfcabea8205df17
+  repo: blog
+  owner: calc1um
 
 # 输入Google Analytics web tracking code
 google_analytics:
